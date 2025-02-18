@@ -1,0 +1,25 @@
+body{
+    font-family: "Roboto";
+    margin: 0;
+}
+.header{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #E5E7EB;
+    padding: 16px;
+    font-size: 18px;
+}
+
+.logo{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    gap:16px;
+}
